@@ -119,7 +119,7 @@
     font-weight: 600;
     text-decoration: none;
     font-size: .9rem;
-    border: .15rem solid var(--clr-neutrl-very-light-gray);
+    border: .15rem solid var(--clr-neutral-very-light-gray);
     width: fit-content;
   }
 
@@ -133,6 +133,13 @@
 
   .luxury .button {
     color: var(--clr-primary-very-dark-cyan);
+  }
+
+  .button:hover, 
+  .button:active {
+    color: var(--clr-neutral-transparent-white);
+    border: .15rem solid var(--clr-neutral-transparent-white);
+    background: transparent;
   }
 
   .attribution {
