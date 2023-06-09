@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-Hubl-E16PC)
-- Live Site URL: [Add live site URL here](https://main--splendorous-marzipan-e29c91.netlify.app/)
+- Solution URL: [click here](https://www.frontendmentor.io/solutions/3column-preview-card-component-Hubl-E16PC)
+- Live Site URL: [click here](https://main--splendorous-marzipan-e29c91.netlify.app/)
 
 ## My process
 
